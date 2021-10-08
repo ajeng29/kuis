@@ -1,0 +1,35 @@
+th, td{
+	text-align: right;
+	padding: 24px;
+}
+
+body{
+   padding: 0;
+   margin:50px;
+   width: 100%;
+   min-width: 1349px;
+   font-family:Arial, Helvetica, sans-serif;
+   background-color: #C5C5AF;
+   background-image: url('images/furley_bg.png');
+   background-repeat: repeat;
+}
+ 
+.menu-wrap {
+   height:350px; 
+   line-height:50px; 
+   position:relative;
+   width:770px;
+   margin:auto;
+   margin-top:80px;
+}
+ 
+.menu-wrap ul {
+   list-style:none;
+}
+
+.menu-wrap ul li a:hover {
+   background-color:#666; 
+   display:block;
+}
+ 
+
